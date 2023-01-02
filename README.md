@@ -16,4 +16,23 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sungho</h1>
 <h3 align="center">I'm studying to become awesome developer.</h3>
 
+<h3 align="center">🛠️ My Skills 🛠️</h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  
+ <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+</p>
 <br/>
