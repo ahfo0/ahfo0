@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sungho</h1>
 <h3 align="center">I'm studying to become awesome developer.</h3>
 <br/>
-<h3 align="center">🛠️ My Skills 🛠️</h3>
+<h3 align="center">🛠️ Skills</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -36,3 +36,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 </p>
 <br/>
+<h3 align="center">🔍 Recent interests</h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</p>
