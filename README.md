@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sungho</h1>
-<h3 align="center">I'm studying to become awesome full stack developer.</h3>
+<h3 align="center">I'm studying to become awesome developer.</h3>
 <br/>
 <h3 align="center">🛠️ Skills</h3>
 <p align="center">
@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <h3 align="center">🔍 Recent interests</h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+</p>
 <p align="center">
  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
